@@ -6,7 +6,7 @@
       UI library only. No gameplay/ESP/aimbot/etc. functionality is included.
 
     Example bootstrap:
-      local Library = loadstring(game:HttpGet("YOUR_RAW_MAIN_LUA_URL"))()
+      local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScriptCopy/Astral-Test/refs/heads/main/Main.lua"))()
 
       local Window = Library:CreateWindow({
           Name = "My UI",
